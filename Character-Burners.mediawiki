@@ -1,0 +1,57 @@
+<blockquote><!-- the blockquote is optional, but offsets it nicely -->
+
+{| cellspacing="0"
+|+ style="font-size:larger; text-align:left;"|'''Empress Simax'''
+|- 
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Wi'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Pe'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ag'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Sp'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Po'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Fo'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Hea'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ref'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''MW'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ste'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Hes'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Sti'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Res'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Cir'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''''Multi.'''''
+|-
+|''B5'' <!-- Will -->
+|''B5'' <!-- Perception -->
+|''B4'' <!-- Agility -->
+|''B4'' <!-- Speed -->
+|''B3'' <!-- Power -->
+|''B3'' <!-- Forte -->
+|''B4'' <!-- Health -->
+|''B4'' <!-- Reflexes -->
+|''B9'' <!-- Mortal Wound -->
+|''B3'' <!-- Steel -->
+|''5'' <!-- Hesitation -->
+|''7'' <!-- Stride-->
+|''B5'' <!-- Resources -->
+|''B3'' <!-- Circles -->
+|''3.5'' <!-- Speed Multiplier -->
+|}
+{|cellspacing="0"
+|- 
+| style="background:#000; color:white; padding:0 2em 0 .25em;"|'''PTGS'''
+| style="background:#111; color:white; padding:0 2em 0 .25em;"|'''Su: B2'''
+| style="background:#222; color:white; padding:0 2em 0 .25em;"|'''Li: B4'''
+| style="background:#333; color:white; padding:0 2em 0 .25em;"|'''Mi: B6'''
+| style="background:#444; color:white; padding:0 2em 0 .25em;"|'''Se: B7'''
+| style="background:#555; color:white; padding:0 2em 0 .25em;"|'''Tr: B8'''
+| style="background:#666; color:white; padding:0 2em 0 .25em;"|'''Mo: B9'''
+|}
+'''Age'''— 34     '''Lifepaths'''— Born Noble, Young Lady, Lady, Dame
+<br/>'''Skills'''— Etiquette B5, Seduction B4
+<br/>'''Gear'''— Finery
+<br/>'''Resources'''— Keep, Empress<!-- Relationships, Reputations, Affiliations, property-->
+
+<br/>'''Beliefs'''— I must stop the cultist from ruining my empire
+<br/>'''Instincts'''— always keep guards close by
+<br/>'''Traits'''— Regal bearing, drop dead gorgeous
+
+</blockquote>
