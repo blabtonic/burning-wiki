@@ -1,0 +1,58 @@
+<blockquote><!-- the blockquote is optional, but offsets it nicely -->
+
+{| cellspacing="0"
+|+ style="font-size:larger; text-align:left;"|'''Jaguar-men'''
+|- 
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Wi'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Pe'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ag'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Sp'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Po'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Fo'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Hea'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ref'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''MW'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Ste'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Hes'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Str'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Res'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''Cir'''
+|style="border-bottom:1px solid black; padding-right:1em;"|'''''Multi.'''''
+|-
+|''B3'' <!-- Will -->
+|''B6'' <!-- Perception -->
+|''B6'' <!-- Agility -->
+|''B7'' <!-- Speed -->
+|''B5'' <!-- Power -->
+|''B4'' <!-- Forte -->
+|''B7'' <!-- Health -->
+|''B6'' <!-- Reflexes -->
+|''B10'' <!-- Mortal Wound -->
+|''B6'' <!-- Steel -->
+|''7'' <!-- Hesitation -->
+|''8'' <!-- Stride -->
+|''B0'' <!-- Resources -->
+|''B3'' <!-- Circles -->
+|''6'' <!-- Speed Multiplier -->
+|}
+{|cellspacing="0"
+|- 
+| style="background:#000; color:white; padding:0 2em 0 .25em;"|'''PTGS'''
+| style="background:#111; color:white; padding:0 2em 0 .25em;"|'''Su: B3'''
+| style="background:#222; color:white; padding:0 2em 0 .25em;"|'''Li: B5'''
+| style="background:#333; color:white; padding:0 2em 0 .25em;"|'''Mi: B7'''
+| style="background:#444; color:white; padding:0 2em 0 .25em;"|'''Se: B8'''
+| style="background:#555; color:white; padding:0 2em 0 .25em;"|'''Tr: B9'''
+| style="background:#666; color:white; padding:0 2em 0 .25em;"|'''Mo: B10'''
+|}
+'''Age'''— 26     '''Lifepaths'''— Born Human, cursed, jaguarman
+<br/>'''Skills'''— Tracking B5, Sword B3
+<br/>'''Gear'''—
+<br/>'''Resources'''—<!-- Relationships, Reputations, Affiliations, property-->
+<br/>'''IMS'''—Slashing claws +1 VA 1 WS 2, shortest
+
+<br/>'''Beliefs'''— We must find a noble leader
+<br/>'''Instincts'''— Track prey with nose
+<br/>'''Traits'''— Shadow coat, Keen sense of balance
+
+</blockquote>
